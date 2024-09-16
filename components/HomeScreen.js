@@ -78,7 +78,7 @@ const HomeScreen = () => {
         </LinearGradient>
     );
 };
-
+<text>sita</text>
 export default HomeScreen;
 
 const styles = StyleSheet.create({
